@@ -2,7 +2,6 @@
 
 # Point-based Instance Completion with Scene Constraints
 
-[Wesley Khademi](https://wkhademi.github.io), [Li Fuxin](https://web.engr.oregonstate.edu/~lif/)  
 Oregon State University
 
 <a href="https://arxiv.org/abs/2504.05698"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
